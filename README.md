@@ -12,3 +12,8 @@ Deque class (able to remove from front and back) and randomized queue class (rem
 - Linked list and variable resizing arrays
 - Item iterators
 
+## Collinear Points
+Calculate and determine line segments that connect 4 or more points that are collinear using a brute force method and sorting method.
+- Arrays.sort() method to calculate collinear points significantly faster (n^2 logn compared to n^4)
+- Implement Comprable and Comparator classes for additional sorting techniques
+
