@@ -17,3 +17,8 @@ Calculate and determine line segments that connect 4 or more points that are col
 - Arrays.sort() method to calculate collinear points significantly faster (n^2 logn compared to n^4)
 - Implement Comprable and Comparator classes for additional sorting techniques
 
+## A Star 8 Puzzle Solver
+Create an A star algorithm to solve an 8 puzzle implementing a priority queue
+- Implement Priority Queue to solve an 8puzzle efficiently
+- Use nested classes to organize priority queue using nodes and Priority Order comparator class
+
